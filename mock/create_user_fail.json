@@ -1,0 +1,6 @@
+{
+  "resource": "/",
+  "path": "/",
+  "httpMethod": "POST",
+  "body": "{ \"first_name\":\"Jasjit\", \"last_name\": \"Bhatia\", \"username\":\"jazzyb\", \"mobile\": 9191919191, \"site_id\":1 }"
+}

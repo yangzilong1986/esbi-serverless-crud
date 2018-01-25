@@ -1,0 +1,8 @@
+{
+  "resource": "/",
+  "path": "/",
+  "httpMethod": "GET",
+  "pathParameters": {
+    "user_id": "non-existent user"
+  }
+}
